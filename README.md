@@ -16,6 +16,9 @@ Gratitude Buddy is a React-based AI agent designed to foster gratitude and menta
 ### 1. Gratitude Prompts
 Gratitude Buddy offers a variety of prompts designed to encourage users to reflect on the positive aspects of their day. Examples include:
 * "What are three things you are grateful for today?"
+* "Think about someone who made your day better. What did they do?"
+* "What is something in your life that brings you peace?"
+* "Take a moment to appreciate your body. What is something about it that you are grateful for?"
 * "What was the highlight of your day so far?"
 
 ### 2. Progress and Streak Tracking
@@ -29,13 +32,15 @@ Users can share their feedback or reflections on prompts, and Gratitude Buddy re
 
 ### 4. Encouragement Messages
 Encouragement messages are designed to motivate users, such as:
-* "You're doing a great job nurturing your mental health and practicing gratitude!"
+* "You're doing wonderfully, and every moment of gratitude is a step forward in your wellness journey."
+* "Great job taking time for yourself and reflecting on what matters most to you. Keep going!"
 
 ### 5. Scheduled Tasks
 Automated tasks include:
-* Sending a daily gratitude prompt each morning
-* Reminding users to reflect on prompts throughout the day
-* Resetting streaks and pending prompts at midnight
+* Sending a daily gratitude prompt each morning at 9:00 AM.
+* Reminding users to reflect on prompts throughout the day at 10:00 AM and 8:00 PM.
+* Resetting streaks and pending prompts at midnight (00:00).
+* Checking in on yesterday's gratitude reflection.
 
 ## Technologies Used 🛠
 
